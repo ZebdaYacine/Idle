@@ -1,0 +1,4 @@
+github.com/rqlite/gorqlite v0.0.0-20250609141355-ac86a4a1c9a8 h1:BoxiqWvhprOB2isgM59s8wkgKwAoyQH66Twfmof41oE=
+github.com/rqlite/gorqlite v0.0.0-20250609141355-ac86a4a1c9a8/go.mod h1:xF/KoXmrRyahPfo5L7Szb5cAAUl53dMWBh9cMruGEZg=
+golang.org/x/sys v0.40.0 h1:DBZZqJ2Rkml6QMQsZywtnjnnGvHza6BTfYFWY9kjEWQ=
+golang.org/x/sys v0.40.0/go.mod h1:OgkHotnGiDImocRcuBABYBEXf8A9a87e/uXjp9XT3ks=
